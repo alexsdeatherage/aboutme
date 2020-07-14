@@ -1,0 +1,3 @@
+This is a short summary about me. 
+My name is Alex Deatherage, a recent Civil Engineering Graduate from Cal Poly
+I am currently training to be a web developer.
